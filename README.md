@@ -1,4 +1,4 @@
-# ATM
+# ATM Simulation
 
 ATM simulation created using C.
 
